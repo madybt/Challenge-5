@@ -14,3 +14,6 @@ A web-based task management board for organizing tasks into **To Do**, **In Prog
 
 ## License
 MIT License
+
+## Links
+Below is the github repo link and the deployed application
