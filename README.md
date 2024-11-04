@@ -20,3 +20,9 @@ Below is the github repo link and the deployed application
 https://github.com/madybt/Challenge-5/tree/main
 
 here is the deployed application link
+https://madybt.github.io/Challenge-5/
+
+## screenshots
+
+![app](assets/images/app.jpg)
+![github](assets/images/git.jpg)
