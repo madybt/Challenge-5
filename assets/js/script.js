@@ -69,7 +69,6 @@ for (let task of taskList) {
     zIndex: 100,
     });
 }
- 
 // Create a function to handle adding a new task
 function handleAddTask(event) {
   event.preventDefault();
